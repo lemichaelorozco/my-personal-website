@@ -1,4 +1,14 @@
 body {
-    background: blue;
+    background: rgb(255, 255, 255);
     padding: 50px;
+}
+
+div {
+
+
+}
+
+img {
+    display: inline;
+    float: right;
 }
