@@ -3,12 +3,82 @@ body {
     padding: 50px;
 }
 
+main {
+    position: relative;
+    top: 35px;
+}
+
 div {
 
 
 }
 
-img {
-    display: inline;
+header {
+    position: relative;
+}
+
+nav {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    width: 100%;
+}
+
+
+h1 {
+    margin: auto;
+    position: relative;
+    text-align: center;
+
+}
+
+
+article {
+    margin: auto;
+    position: relative;
+    top: 15px;
+    left: 15px;
+    
+}
+
+
+
+p {
+    display: inline-block;
+    max-width: 100%;
+    padding: 5%;
+    margin: auto;
+    box-sizing: border-box;
+    font-family: Georgia;
+    line-height: 1.5em;
+}
+
+
+
+
+li {
+    display: inline-block;
+    padding: 1%;
+    width: 24%;
+    box-sizing: border-box;
+
+
+}
+
+footer {
+    position: relative;
+    top: 50px;
+    left: 50px;
+    
+}
+
+
+
+
+#basketball-png {
+    display: inline-block;
     float: right;
+    max-width: 25%;
+    height: auto;
+
 }
